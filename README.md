@@ -2,9 +2,7 @@
 These repository contains a Xcode Playground that goes over the basics of Combine and presents usage examples for the main components in the framework.
 
 
-
 ## Getting Started
------
 
 ### Prerequisites
 - Xcode
@@ -17,8 +15,6 @@ These repository contains a Xcode Playground that goes over the basics of Combin
 
 ## Ussage
 
------
-
 The intention of this playground is to work as a reference for people that's getting started with the framework, so they have a place to come back to check the theory and at the same time try new things on the spot.
 
 In summary, have fun learning combine.
@@ -26,8 +22,6 @@ In summary, have fun learning combine.
 
 
 ## Contributing
-
------
 
 Any contributions you make are greatly appreciated.
 
@@ -43,16 +37,18 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-------
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
 ## References
 
-------
 
 This project was created as extra material for an article that covers in more detail the framework and how to use it.
 
 Combine: From zero to… Oh! I get it. (Parts [I](https://medium.com/dev-jam/combine-from-zero-to-oh-i-get-it-part-i-6aa9ced8e5f), II, III)
+
+Other references are:
+- [Using Combine - Joseph Heck](https://heckj.github.io/swiftui-notes/)
+- [Apple's Combine Documentation](https://developer.apple.com/documentation/combine)
+- [WWDC 2019](https://developer.apple.com/videos/play/wwdc2019?q=Combine)
