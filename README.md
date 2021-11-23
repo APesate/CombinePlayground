@@ -46,7 +46,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 This project was created as extra material for an article that covers in more detail the framework and how to use it.
 
-Combine: From zero to… Oh! I get it. (Parts [I](https://medium.com/dev-jam/combine-from-zero-to-oh-i-get-it-part-i-6aa9ced8e5f), II, III)
+Combine: From zero to… Oh! I get it. (Parts [I](https://medium.com/dev-jam/combine-from-zero-to-oh-i-get-it-part-i-6aa9ced8e5f?source=friends_link&sk=88322052964d18783f85d20fc7ba3544), [II](https://medium.com/dev-jam/combine-from-zero-to-oh-i-get-it-part-ii-2b6414a57d53?source=friends_link&sk=5a49046e29802ca2d6ecb56ef08e8c1c), III)
 
 Other references are:
 - [Using Combine - Joseph Heck](https://heckj.github.io/swiftui-notes/)
